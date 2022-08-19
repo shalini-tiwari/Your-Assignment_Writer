@@ -1,6 +1,6 @@
 myData = `Demo`;
 let img, myFont;
-let fontssss = ["fontText", "fontText1", "fontText2"];
+let fontssss = ["static/fontText", "static/fontText1", "static/fontText2"];
 let change = 1;
 imgNum = 1;
 fontNum = 1;
